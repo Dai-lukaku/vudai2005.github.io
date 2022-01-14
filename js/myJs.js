@@ -6,11 +6,11 @@ const textConfig = {
   text5: "Anh để em suy nghĩ đã ",
   text6: "Em chờ anh nói từ rất lâu rùi ý ❤",
   text7: "Lí do em thích anh đi :vvv",
-  text8: "Gửi cho anh 💖",
+  text8: "Gửi cho má anh :))",
   text9: "Vì anh giống như chàng khờ của em vậy 😘 😘",
   text10: "Anh biết mà ^^ Yêu em 3000",
   text11:
-    "Tết nay anh qua đón em đi chơi nhaa ❤ ",
+    "Tết này anh qua đón em đi nhà nghỉ nhaa ❤ ",
   text12: "Okii lunn 💖",
 };
 
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "https://www.youtube.com/watch?v=3PJPQIN7EVU";
           },
         });
       }
