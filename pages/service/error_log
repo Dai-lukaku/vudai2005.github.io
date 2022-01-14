@@ -1,0 +1,13 @@
+[13-Jun-2020 13:14:46 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/phandinh/public_html/pages/service/report-facebook.php on line 218
+[13-Jun-2020 13:15:02 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/phandinh/public_html/pages/service/report-facebook.php on line 218
+[13-Jun-2020 13:15:15 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/phandinh/public_html/pages/service/report-facebook.php on line 218
+[13-Jun-2020 14:04:47 Asia/Ho_Chi_Minh] PHP Warning:  include(../../../core/config.php): failed to open stream: No such file or directory in /home/phandinh/public_html/pages/service/buff-comment.php on line 2
+[13-Jun-2020 14:04:47 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '../../../core/config.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/phandinh/public_html/pages/service/buff-comment.php on line 2
+[22-Jun-2020 00:12:36 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/phandinh/public_html/pages/service/buff-sub.php on line 19
+[22-Jun-2020 00:12:57 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/phandinh/public_html/pages/service/buff-sub.php on line 19
+[25-Jun-2020 14:32:13 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '$tongthanhtoan' (T_VARIABLE) in /home/phandinh/public_html/pages/service/loc-banbe.php on line 14
+[25-Jun-2020 14:32:20 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '$tongthanhtoan' (T_VARIABLE) in /home/phandinh/public_html/pages/service/loc-banbe.php on line 14
+[25-Jun-2020 23:02:17 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'minsubtiktok' (T_STRING), expecting ',' or ';' in /home/phandinh/public_html/pages/service/buff-subtiktok.php on line 9
+[25-Jun-2020 23:04:35 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting ',' or ';' in /home/phandinh/public_html/pages/service/buff-subtiktok.php on line 9
+[25-Jun-2020 23:04:43 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting ',' or ';' in /home/phandinh/public_html/pages/service/buff-subtiktok.php on line 9
+[25-Jun-2020 23:13:31 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '(' in /home/phandinh/public_html/pages/service/buff-subtiktok.php on line 11

@@ -1,0 +1,22 @@
+ErrorDocument 401 /index.php
+
+
+ErrorDocument 403 /index.php
+
+
+ErrorDocument 404 /index.php
+
+ErrorDocument 500 /index.php
+
+RewriteEngine On
+#RewriteCond %{HTTPS} on
+#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+RewriteRule ^index.html$ /index.php [L]
+RewriteRule ^dang-ki.html$ /pages/dang-ki.php [L]
+RewriteRule ^dang-xuat.html$ /pages/dang-xuat.php [L]
+
+RewriteRule ^dich-vu/([^/]+)(/([^/]+))?.html$ /pages/service/$1.php [L]
+RewriteRule ^admin/dich-vu/([^/]+)(/([^/]+))?.html$ /pages/admin/service/$1.php [L]
+RewriteRule ^admin/([^/]+)(/([^/]+))?.html$ /pages/admin/$1.php [L]
+
